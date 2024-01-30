@@ -35,7 +35,7 @@ Este projeto utiliza a biblioteca MediaPipe para o rastreamento de mãos e comun
 4. Execute o script Python:
 
     ```bash
-    python nome_do_script.py
+    python semáforo.py
     ```
 
 ## Uso
